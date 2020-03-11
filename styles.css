@@ -51,7 +51,7 @@ hr {
 }
 
 .top {
-  background-image: url(images/headerimage.jpg);
+  background-image: url(headerimage.jpg);
   Background-size: cover;
   background-repeat: no-repeat;
   background-color: #1b262c;
